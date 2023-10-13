@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Autopilot for BetterDiscord](https://github.com/ItsAlphaNeon/AutoPilot-for-BetterDiscord)
 
-- 🌱 I’m currently learning **ReactNative / Javascript / Linux / C#**
+- 🌱 I’m currently learning **Flutter / ReactNative / Javascript / Linux / C#**
 
 - 📫 How to reach me **neon@alphaneon.blue**
 
