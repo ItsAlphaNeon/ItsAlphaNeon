@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm AlphaNeon</h1>
-<h3 align="center">A Furry, Software Enginnering Student</h3>
+<h3 align="center">A Furry, Aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsalphaneon&label=Profile%20views&color=0e75b6&style=flat" alt="itsalphaneon" /> </p>
 
 - 🔭 I’m currently working on [Multiple Projects](https://github.com/ItsAlphaNeon?tab=repositories)
 
-- 🌱 I’m currently learning **Flutter / ReactNative / Javascript / Linux / C#**
+- 🌱 I’m currently learning **NodeJS, Python**
 
 - 📫 How to reach me **neon@alphaneon.blue**
 
